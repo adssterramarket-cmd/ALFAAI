@@ -294,7 +294,7 @@ const ChatInterface = () => {
                     checked={sendToDiscord}
                     onChange={(e) => setSendToDiscord(e.target.checked)}
                   />
-                  Send to Discord
+                  Send to AI
                 </label>
                 <button type="submit" className="send-btn">
                   Send Message
