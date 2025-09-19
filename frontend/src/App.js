@@ -30,9 +30,9 @@ const NotFoundPage = () => {
         <div className="dns-error">
           <div className="error-icon">⚠️</div>
           <h1>This site can't be reached</h1>
-          <p className="error-domain">translkjate.google.com</p>
+          <p className="error-domain">phantomtalkai.vercel.app</p>
           <p className="error-description">
-            Check if there is a typo in <strong>translkjate.google.com</strong>.
+            Check if there is a typo in <strong>phantomtalkai.vercel.app</strong>.
           </p>
           <div className="error-suggestions">
             <p>If spelling is correct, try running Windows Network Diagnostics.</p>
